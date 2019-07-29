@@ -1,3 +1,5 @@
+require_relative "..liv"
+
 class ChattyStudent < Student
   
   def hello
